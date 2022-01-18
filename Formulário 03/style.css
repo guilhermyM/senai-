@@ -1,0 +1,132 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+#cabecalho{
+    background-color: lightskyblue;
+    display: inline-block;
+    width: 500px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#fundo-azul{
+    background-color: blue;
+    display: inline-block;
+    width: 250px;
+    color: blue;
+    font-size: 14px;
+}
+
+label{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#nome{
+    margin-left: 100px;
+    width: 605px;
+    margin-bottom: 4px;
+}
+
+#nome-completo{
+    margin-left: 36px;
+    width: 605px;
+    margin-bottom: 4px;
+}
+
+#cpf{
+    margin-left: 112px;
+    width: 605px;
+    margin-bottom: 4px;
+}
+
+#email{
+    margin-left: 99px;
+    width: 605px;
+    margin-bottom: 4px;
+}
+
+#website{
+    margin-left: 88px;
+    width: 605px;
+    margin-bottom: 4px;
+}
+
+#endereco{
+    width: 605px;
+    margin-bottom: 4px;
+    margin-left: 79px;
+}
+
+#bairro{
+    margin-left: 100px;
+    width: 250px;
+    margin-bottom: 4px;
+}
+
+#cidade{
+    width: 286px;
+    margin-bottom: 4px;
+    margin-left: 10px;
+}
+
+#cep{
+    margin-left: 113px;
+    width: 250px;
+    margin-bottom: 4px;
+}
+
+#estado{
+    margin-left: 37px;
+    margin-bottom: 4px;
+}
+
+#telefone{
+    margin-left: 83px;
+    width: 250px;
+    margin-bottom: 4px;
+}
+
+#fax{
+    margin-left: 31px;
+    width: 286px;
+    margin-bottom: 4px;
+}
+
+#nascimento{
+    margin-left: 30px;
+    width: 252px;
+    margin-bottom: 4px;
+}
+
+#sexo{
+    margin-left: 23px;
+    margin-bottom: 4px;
+}
+
+#celular{
+    margin-left: 93px;
+    margin-bottom: 4px;
+    width: 250px;
+}
+
+#login{
+    margin-left: 102px;
+    width: 250px;
+    margin-bottom: 4px;
+}
+
+#senha{
+    margin-left: 15px;
+    margin-bottom: 4px;
+    width: 286px;
+}
+
+#assunto{
+    margin-bottom: 15px;
+}
+
+button{
+    margin-left: 5px;
+}
